@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Debug" t="ExcludeRecursive" />
+    <e p="C:\Users\HP\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HP\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Mobile Games.1882002808.00" t="ExcludeRecursive" />
+    <e p="C:\Users\HP\Documents\GitHub\Augmented_Reality_Submission\Mobile Games" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CameraControl.cs" t="Include" />
+        <e p="Controllable.cs" t="Include" />
+        <e p="FingerType.cs" t="Include" />
+        <e p="RefreshButtonScript.cs" t="Include" />
+        <e p="TouchControl.cs" t="Include" />
+      </e>
+      <e p="Mobile Games.sln" t="IncludeFlat" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
